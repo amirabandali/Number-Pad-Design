@@ -1,7 +1,7 @@
 # Number Pad Design
 
 ## Overview
-This is a schematic and PCB design for a basic number pad including numbers 0-9, basic mathematical operations, enter, delete, and decimal point keys. The schematic and PCB were created using KiCad.
+This is a schematic and PCB design for a basic number pad including 17 key switches connected to an Arduino Pro Micro board. The schematic and PCB were created using the KiCad software.
 
 ---
 
