@@ -6,7 +6,7 @@ This is a schematic and PCB design for a basic number pad including 17 key switc
 ---
 
 # Schematic Image
-<img width="1097" height="775" alt="Number Pad Schematic Design" src="https://github.com/user-attachments/assets/08c575a2-a2c1-4ce5-b97e-a9d20fe2fbfb" />
+<img width="1087" height="793" alt="Number Pad Schematic" src="https://github.com/user-attachments/assets/95b776a6-52b8-4d49-9d53-ae6e51cfea67" />
 
 ---
 
