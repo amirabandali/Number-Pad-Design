@@ -1,8 +1,8 @@
 # Number Pad Design
 
 ## Overview
+This is a schematic and PCB design for a basic number pad including numbers 0-9, basic mathematical operations, enter, delete, and decimal point keys. The schematic and PCB were created using KiCad.
 
-This robot is coded with an Arduino Nano chip, having the abilities of avoiding obstacles and staying only on black-coloured surfaces using ultrasonic and infrared sensors.
 ---
 
 # Schematic Image
