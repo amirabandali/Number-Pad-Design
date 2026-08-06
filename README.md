@@ -1,4 +1,4 @@
-# Number Pad Design
+# Number Pad PCB Design
 
 ## Overview
 This is a schematic and PCB design for a basic number pad including 17 key switches connected to an Arduino Pro Micro board. The schematic and PCB were created using the KiCad software.
